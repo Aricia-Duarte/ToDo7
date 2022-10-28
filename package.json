@@ -2,7 +2,7 @@
   "name": "todo7",
   "version": "1.0.0",
   "description": "",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
     "test": "jest",
     "start": "node./src/APP.js",
