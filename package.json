@@ -5,7 +5,7 @@
   "main": "",
   "scripts": {
     "test": "jest",
-    "start": "node./src/APP.js",
+    "start": "node ./src/APP.js",
     "dev": "nodemon ./src/APP.js"
   },
   "repository": {
