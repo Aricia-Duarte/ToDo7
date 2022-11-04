@@ -4,7 +4,7 @@ const app = express();
 
 app.use(express.json());
 app.use(router);
-const port = process.env.port 3000;
+const port = process.env.port3000;
 console.log("servidor executando");
 
 app.listen(port, () => console.log(`Servidor rodando na porta ${port}`));
